@@ -100,10 +100,7 @@ for(k in 1:10){
     y = (y - min(y)) / (max(y) - min(y)) 
     
     sumX = 1+  X[,1] + X[,2]+X[,3]
-    
-    is.integer(j/2)
-    if(j )
-      
+
     p_obs_y=     ( sumX  +1)/ max( ( sumX +1))           # probablity of being observed
     obs_y = rbinom(n,1,  p_obs_y)
     
