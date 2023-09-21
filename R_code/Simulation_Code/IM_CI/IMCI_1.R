@@ -12,7 +12,10 @@ p = 50
  
  setwd ("C:/Users/markh/Dropbox/Columbia/WGAN_IQ/Data/Simulations/IMCI/")
  
+
+ setwd ("C:/Users/markh/Dropbox/Columbia/GRWAIN/Simulations/CI")
  
+  
  for(k in 1:3){
   
  
